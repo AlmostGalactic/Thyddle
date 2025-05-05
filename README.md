@@ -2,8 +2,6 @@
 
 A **JavaScript-inspired, semicolon-strict** programming language built in Python.
 
-> **Tagline:** Lightweight, expressive, and playful — *where every line truly ends with a semicolon.*
-
 ---
 
 ## 🌟 Features
