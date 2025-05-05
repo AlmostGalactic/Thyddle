@@ -10,7 +10,6 @@ while (true) {
     if (in == "exit()") {
         break;
     }
-
     var ret = eval(in);
 
     if (ret != nothing) {
